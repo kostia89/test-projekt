@@ -1,0 +1,45 @@
+.discover{
+    font-family: Bai Jamjuree;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 60px;
+    line-height: 60px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.02em;
+}
+.text {
+    font-family: Bai Jamjuree;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 24px;
+    line-height: 30px;
+    display: flex;
+    align-items: center;
+    text-align: center;
+    letter-spacing: -0.01em;
+}
+.selection{
+    .fraction{
+        h2{
+            font-family: Bai Jamjuree;
+            font-style: normal;
+            font-weight: 600;
+            font-size: 20px;
+            line-height: 32px;
+            display: flex;
+            align-items: center;
+            letter-spacing: 0.15px;
+        }
+        p{
+            font-family: Roboto;
+            font-style: normal;
+            font-weight: normal;
+            font-size: 20px;
+            line-height: 30px;
+            letter-spacing: 0.15px;
+            color: #5E6366;
+        }
+    }
+}
